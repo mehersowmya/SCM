@@ -5,6 +5,7 @@ count=1
 while [ $valid ]
 do
 echo $count
+echo "this code is for aug-release"
 if [ $count -eq 5 ];
 then
 break
